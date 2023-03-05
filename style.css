@@ -30,6 +30,10 @@ em strong {
     color:var(--cor-marron);
 }
 
+.beneficio .titulo-centralizado {
+    margin-top: 50px;
+}
+
 .beneficio ul {
     display: inline-block;
     width: 20%;
